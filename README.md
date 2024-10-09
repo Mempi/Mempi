@@ -5,6 +5,7 @@
 - 📫 How to reach me @Mempi
 - 😄 Visita mi patreon https://patreon.com/Mempi
       En ella encontrarás las recetas vegetarianas que voy creando inspirada en gastronomía internacional
+![IMG20240901085927](https://github.com/user-attachments/assets/8a33acc2-b4c8-441b-80ac-281e9fea2730)
 
 <!---
 Mempi/Mempi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
